@@ -14,4 +14,5 @@ the idea is to log SQL DML statements applied in a user table 'PERSONS' in 'PERS
 You can make a try in Oracle's PL/SQL console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
 
 The content of log table will be like this:
+
 ![alt text](https://github.com/FaroukBENGHARSSALLAH/plsql-trigger/blob/master/log-table-content.jpg "log table content")
