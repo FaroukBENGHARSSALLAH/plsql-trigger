@@ -11,7 +11,7 @@ Some implemeted APIs:
 
 the idea is to log SQL DML statements applied in a user table 'PERSONS' in 'PERSONS_LOG' table.
 
-You can make a try in Oracle's PL/SQL console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
+You can make a try in Oracle's PL/SQL's online console via [apex.oracle.com](https://apex.oracle.com/pls/apex/).
 
 The content of log table will be like this:
 
